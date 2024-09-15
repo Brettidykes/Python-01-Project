@@ -16,13 +16,13 @@ This Python script generates a specified number of random EC2 instance names bas
 3. Specify how many EC2 instance names you need.
 4. The script will output the generated EC2 instance names, each with a random string attached to the department name.
 
-Example Output:  
+**Example Output:  **
 What is your department name? FinOps  
 How many EC2 instance names do you need? 3  
 Here are your generated EC2 names:  
-FinOpsA1b2C3d4!  
-FinOpsX9y8Z7p$  
-FinOpsK6l5M2n&
+   FinOpsA1b2C3d4!  
+   FinOpsX9y8Z7p$  
+   FinOpsK6l5M2n&
 
 **Why Is This Useful?**  
 For businesses running multiple **EC2 instances**, assigning unique and meaningful names to instances is important for organization, tracking, and resource management. This script:
