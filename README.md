@@ -17,6 +17,7 @@ This Python script generates a specified number of random EC2 instance names bas
 4. The script will output the generated EC2 instance names, each with a random string attached to the department name.
 
 **Example Output:**
+
 What is your department name? FinOps  
 How many EC2 instance names do you need? 3  
 Here are your generated EC2 names:  
